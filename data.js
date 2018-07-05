@@ -81,8 +81,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-habitacion-2",
-      "name": "Habitacion 2",
+      "id": "2-habitacion-master",
+      "name": "Habitacion Master",
       "levels": [
         {
           "tileSize": 256,
@@ -115,8 +115,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-habitacion-master",
-      "name": "Habitacion Master",
+      "id": "3-habitacion-2",
+      "name": "Habitacion 2",
       "levels": [
         {
           "tileSize": 256,
@@ -145,7 +145,7 @@ var APP_DATA = {
           "rotation": 0,
           "target": "0-sala"
         }
-      ],
+      ],      
       "infoHotspots": []
     }
   ],
