@@ -82,7 +82,7 @@ var APP_DATA = {
     },
     {
       "id": "2-habitacion-master",
-      "name": "Habitacion Master",
+      "name": "Habitacion 2",
       "levels": [
         {
           "tileSize": 256,
@@ -116,7 +116,7 @@ var APP_DATA = {
     },
     {
       "id": "3-habitacion-2",
-      "name": "Habitacion 2",
+      "name": "Habitacion Master",
       "levels": [
         {
           "tileSize": 256,
