@@ -81,7 +81,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-habitacion-master",
+      "id": "3-habitacion-2",
       "name": "Habitacion 2",
       "levels": [
         {
@@ -106,7 +106,7 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.980847427179805,
+          "yaw": 2.6987361899996127,
           "pitch": 0,
           "rotation": 0,
           "target": "0-sala"
@@ -115,7 +115,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-habitacion-2",
+      "id": "2-habitacion-master",
       "name": "Habitacion Master",
       "levels": [
         {
@@ -140,7 +140,7 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.6987361899996127,
+          "yaw": -2.980847427179805,
           "pitch": 0,
           "rotation": 0,
           "target": "0-sala"
